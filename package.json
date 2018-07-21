@@ -1,0 +1,14 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "This is a contact manager app which uses the cli to perform CRUD opertions on  the contact list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ermain Paul",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
